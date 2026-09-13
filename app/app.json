@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "Estudo Bíblico",
+    "slug": "estudo-biblico-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,7 +21,7 @@
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro",
-      "output": "static",
+      "output": "single",
       "name": "Estudo Bíblico - App & Leitura",
       "shortName": "Estudo Bíblico",
       "description": "App para estudos e anotações bíblicas."
