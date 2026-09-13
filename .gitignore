@@ -1,0 +1,29 @@
+# Dependencies
+app/node_modules/
+
+# Expo
+app/.expo/
+app/dist/
+app/web-build/
+app/expo-env.d.ts
+
+# Native generated folders
+app/ios/
+app/android/
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Local databases
+*.db
+
+# Local environment files
+*.env
+*.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+*.swp
+*.swo
